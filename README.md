@@ -11,6 +11,11 @@
 - TypeScript
 - CSS
 
+  Pluggins
+  - Material Icon Theme
+  - Tailwind CSS IntelliSense
+  - tabler.io/icons
+
 # Projeto
 
 React e Next, um conteúdo atual e focado na construção de interfaces gráficas mostrando como usar flexbox na prática.
