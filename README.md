@@ -1,9 +1,34 @@
+#REACT e NEXT
+
+![image](https://github.com/user-attachments/assets/1c6ce717-730a-4089-93a1-beb47cec8067)
+![image](https://github.com/user-attachments/assets/6d1bf30b-c56f-4898-940b-c4e864004e18)
+![image](https://github.com/user-attachments/assets/5979b031-928d-41c1-b600-8f26d7dc0272)
+![image](https://github.com/user-attachments/assets/5130b67b-fe64-4a4f-9d9e-146bd559bfa3)
+
+#Tecnologias
+
+# Projeto
+
+React e Next, um conteúdo atual e focado na construção de interfaces gráficas mostrando como usar flexbox na prática.
+FlexBox é um layout model introduzido no CSS3 que facilita a criação de layouts flexíveis e eficientes, especialmente quando se trata de alinhar e distribuir espaço entre os itens em um contêiner, mesmo quando seu tamanho é desconhecido ou dinâmico. Flexbox é ideal para interfaces de usuário complexas e layouts responsivos.
+
+- Criação de componentes
+- Componentes filhos
+- Propriedades entre chamadas de paginas 
+- Criação de templates padrão de uma pagina
+- Navegação de paginas
+- Gerenciamento de Estado dentro da aplicação
+- Definição de layout padrão
+- Pagina de Terefas
+- Função de adicionar tarefas a uma lista ao clicar em um botão
+- Função de remover tarefas da lista
+
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## INICIO
 
-First, run the development server:
+Primeiro, execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
@@ -14,24 +39,17 @@ pnpm dev
 # or
 bun dev
 ```
+Abrir [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Começe a editar a página modificando `app/page.tsx`. A página é atualizada automaticamente conforme você edita o arquivo.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto usa [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) para otimizar e carregar automaticamente o Inter, uma fonte personalizada do Google.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+##Saber mais 
 
-## Learn More
+Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos: 
 
-To learn more about Next.js, take a look at the following resources:
+- [Documentação do Next.js](https://nextjs.org/docs) - aprenda sobre os recursos e a API do Next.js.
+- [Aprenda Next.js](https://nextjs.org/learn) - um tutorial interativo de Next.js.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
