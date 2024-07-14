@@ -1,11 +1,11 @@
-#REACT e NEXT
+# REACT e NEXT
 
 ![image](https://github.com/user-attachments/assets/1c6ce717-730a-4089-93a1-beb47cec8067)
 ![image](https://github.com/user-attachments/assets/6d1bf30b-c56f-4898-940b-c4e864004e18)
 ![image](https://github.com/user-attachments/assets/5979b031-928d-41c1-b600-8f26d7dc0272)
 ![image](https://github.com/user-attachments/assets/5130b67b-fe64-4a4f-9d9e-146bd559bfa3)
 
-#Tecnologias
+# Tecnologias
 
 # Projeto
 
@@ -23,10 +23,9 @@ FlexBox é um layout model introduzido no CSS3 que facilita a criação de layou
 - Função de adicionar tarefas a uma lista ao clicar em um botão
 - Função de remover tarefas da lista
 
+## INICIO
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## INICIO
 
 Primeiro, execute o servidor de desenvolvimento:
 
