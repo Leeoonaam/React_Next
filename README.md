@@ -27,6 +27,7 @@ FlexBox é um layout model introduzido no CSS3 que facilita a criação de layou
 - Função de adicionar tarefas a uma lista ao clicar em um botão
 - Função de remover tarefas da lista
 
+Configuração inicial:
 
 ![image](https://github.com/user-attachments/assets/4875c1d5-7fb0-4987-93e7-40eb577207dd)
 
