@@ -7,6 +7,10 @@
 
 # Tecnologias
 
+- JavaScript
+- TypeScript
+- CSS
+
 # Projeto
 
 React e Next, um conteúdo atual e focado na construção de interfaces gráficas mostrando como usar flexbox na prática.
