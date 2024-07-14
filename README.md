@@ -27,6 +27,10 @@ FlexBox é um layout model introduzido no CSS3 que facilita a criação de layou
 - Função de adicionar tarefas a uma lista ao clicar em um botão
 - Função de remover tarefas da lista
 
+
+![image](https://github.com/user-attachments/assets/4875c1d5-7fb0-4987-93e7-40eb577207dd)
+
+
 ## INICIO
 
 Este é um projeto [Next.js](https://nextjs.org/) inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
